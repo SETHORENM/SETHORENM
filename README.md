@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SETHORENM
+- 👋 Hi, I’m Mattias Thorén
 - 👀 I’m interested in Football and American Football
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on integrations  
